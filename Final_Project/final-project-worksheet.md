@@ -4,14 +4,13 @@ I would like to create a platform for potential new clients to showcase our comp
 
 Desired Features 
 - Use of HTML and CSS
-- Cohesive classes and sections / Inserting images.
-- JavaScript and jQuery for functionality and usability
+- Usage of DropDown Menues to showcase different creative concepts mentioned in the description
 - Responsive 
-- Image Slideshow 
-- Contact (E-mail submit) 
+- Image Slideshow / hover over image and it expands 
+- Contact (E-mail submit)  / Include a small verification addition to "Confirm you are Human" 
 
-| Site Url        
-| [GeneralAssembly](https://generalassemb.ly/gcuko)| - layout of the start learning section <br> - layout of the choose your path section | 
+Site Url        
+https://github.com/gcuko 
 
 ## Wireframes
 
